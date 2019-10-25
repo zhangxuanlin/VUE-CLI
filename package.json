@@ -67,6 +67,8 @@
     "last 2 versions"
   ],
   "jest": {
+    "coverageDirectory": "./coverage/",
+    "collectCoverage": true,
     "moduleFileExtensions": [
       "js",
       "jsx",
