@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "com.uj.protocol";
+option java_outer_classname = "DemoBean";
+
+message DemoProto {
+    repeated Points dbList = 1;
+
+    message Points{
+    	repeated Point points = 1;
+    }
+
+    message Point{
+    	 int64 tagSample = 1; 
+    	 double ai2val = 2;  
+    	 int32 processStatus = 3;
+    }
+} 

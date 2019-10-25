@@ -1,0 +1,3907 @@
+[{
+	"batchNo": 746967,
+	"tagSample": 1565564126410,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 1,
+	"tempVal": "0.023804"
+}, {
+	"tagSampleWarning": 1565564149043,
+	"batchNo": 746968,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565564149043,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 2,
+	"tempVal": "0.013731"
+}, {
+	"tagSampleWarning": 1565564171687,
+	"batchNo": 746969,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565564171687,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 3,
+	"tempVal": "0.020861"
+}, {
+	"tagSampleWarning": 1565564194408,
+	"batchNo": 746970,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565564194408,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 4,
+	"tempVal": "0.022247"
+}, {
+	"batchNo": 746971,
+	"tagSample": 1565564217074,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 5,
+	"tempVal": "0.025205"
+}, {
+	"batchNo": 746972,
+	"tagSample": 1565564239731,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 6,
+	"tempVal": "0.0294"
+}, {
+	"tagSampleWarning": 1565564262431,
+	"batchNo": 746973,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565564262431,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 7,
+	"tempVal": "0.012728"
+}, {
+	"batchNo": 746974,
+	"tagSample": 1565564285129,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 8,
+	"tempVal": "0.032868"
+}, {
+	"batchNo": 746975,
+	"tagSample": 1565564307709,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 9,
+	"tempVal": "0.018851"
+}, {
+	"batchNo": 746976,
+	"tagSample": 1565564330496,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 10,
+	"tempVal": "0.026328"
+}, {
+	"tagSampleWarning": 1565564353047,
+	"batchNo": 746977,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565564353047,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 11,
+	"tempVal": "0.032355"
+}, {
+	"batchNo": 746978,
+	"tagSample": 1565564375805,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 12,
+	"tempVal": "0.03732"
+}, {
+	"batchNo": 746979,
+	"tagSample": 1565564398436,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 13,
+	"tempVal": "0.02692"
+}, {
+	"batchNo": 746980,
+	"tagSample": 1565564421125,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 14,
+	"tempVal": "0.03734"
+}, {
+	"batchNo": 746981,
+	"tagSample": 1565564443751,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 15,
+	"tempVal": "0.029573"
+}, {
+	"tagSampleWarning": 1565564466304,
+	"batchNo": 746982,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565564466304,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 16,
+	"tempVal": "0.018949"
+}, {
+	"batchNo": 746983,
+	"tagSample": 1565564489149,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 17,
+	"tempVal": "0.027279"
+}, {
+	"tagSampleWarning": 1565564511710,
+	"batchNo": 746984,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565564511710,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 18,
+	"tempVal": "0.011683"
+}, {
+	"tagSampleWarning": 1565564534423,
+	"batchNo": 746985,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565564534423,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 19,
+	"tempVal": "0.006342"
+}, {
+	"tagSampleWarning": 1565564557091,
+	"batchNo": 746986,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565564557091,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 20,
+	"tempVal": "0.019825"
+}, {
+	"batchNo": 746987,
+	"tagSample": 1565564579805,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 21,
+	"tempVal": "0.041141"
+}, {
+	"tagSampleWarning": 1565564602452,
+	"batchNo": 746988,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565564602452,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 22,
+	"tempVal": "0.018388"
+}, {
+	"tagSampleWarning": 1565564625121,
+	"batchNo": 746989,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565564625121,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 23,
+	"tempVal": "0.00805"
+}, {
+	"batchNo": 746990,
+	"tagSample": 1565564647862,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 24,
+	"tempVal": "0.021234"
+}, {
+	"batchNo": 746991,
+	"tagSample": 1565564670484,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 25,
+	"tempVal": "0.031991"
+}, {
+	"batchNo": 746992,
+	"tagSample": 1565564693101,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 26,
+	"tempVal": "0.021052"
+}, {
+	"batchNo": 746993,
+	"tagSample": 1565564715797,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 27,
+	"tempVal": "0.031601"
+}, {
+	"batchNo": 746994,
+	"tagSample": 1565564738517,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 28,
+	"tempVal": "0.016434"
+}, {
+	"batchNo": 746995,
+	"tagSample": 1565564761176,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 29,
+	"tempVal": "0.020571"
+}, {
+	"batchNo": 746996,
+	"tagSample": 1565564783892,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 30,
+	"tempVal": "0.040247"
+}, {
+	"batchNo": 746997,
+	"tagSample": 1565564806554,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 31,
+	"tempVal": "0.016098"
+}, {
+	"batchNo": 746998,
+	"tagSample": 1565564829196,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 32,
+	"tempVal": "0.024306"
+}, {
+	"batchNo": 746999,
+	"tagSample": 1565564851895,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 33,
+	"tempVal": "0.020379"
+}, {
+	"batchNo": 747000,
+	"tagSample": 1565564874626,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 34,
+	"tempVal": "0.024517"
+}, {
+	"batchNo": 747001,
+	"tagSample": 1565564897286,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 35,
+	"tempVal": "0.041351"
+}, {
+	"batchNo": 747002,
+	"tagSample": 1565564919939,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 36,
+	"tempVal": "0.022256"
+}, {
+	"batchNo": 747003,
+	"tagSample": 1565564942645,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 37,
+	"tempVal": "0.041573"
+}, {
+	"tagSampleWarning": 1565564965333,
+	"batchNo": 747004,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565564965333,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 38,
+	"tempVal": "0.025042"
+}, {
+	"tagSampleWarning": 1565564988004,
+	"batchNo": 747005,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565564988004,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 39,
+	"tempVal": "0.025084"
+}, {
+	"batchNo": 747006,
+	"tagSample": 1565565010680,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 40,
+	"tempVal": "0.036334"
+}, {
+	"batchNo": 747007,
+	"tagSample": 1565565033302,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 41,
+	"tempVal": "0.027073"
+}, {
+	"tagSampleWarning": 1565565056001,
+	"batchNo": 747008,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565056001,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 42,
+	"tempVal": "0.016808"
+}, {
+	"batchNo": 747009,
+	"tagSample": 1565565078714,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 43,
+	"tempVal": "0.03488"
+}, {
+	"batchNo": 747010,
+	"tagSample": 1565565101315,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 44,
+	"tempVal": "0.027837"
+}, {
+	"batchNo": 747011,
+	"tagSample": 1565565124031,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 45,
+	"tempVal": "0.017598"
+}, {
+	"tagSampleWarning": 1565565146748,
+	"batchNo": 747012,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565146748,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 46,
+	"tempVal": "0.015467"
+}, {
+	"batchNo": 747013,
+	"tagSample": 1565565169361,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 47,
+	"tempVal": "0.027274"
+}, {
+	"batchNo": 747014,
+	"tagSample": 1565565192111,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 48,
+	"tempVal": "0.024583"
+}, {
+	"tagSampleWarning": 1565565214851,
+	"batchNo": 747015,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565214851,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 49,
+	"tempVal": "0.012074"
+}, {
+	"batchNo": 747016,
+	"tagSample": 1565565237410,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 50,
+	"tempVal": "0.022539"
+}, {
+	"batchNo": 747017,
+	"tagSample": 1565565260222,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 51,
+	"tempVal": "0.035245"
+}, {
+	"tagSampleWarning": 1565565282781,
+	"batchNo": 747018,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565282781,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 52,
+	"tempVal": "0.013523"
+}, {
+	"tagSampleWarning": 1565565305460,
+	"batchNo": 747019,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565305460,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 53,
+	"tempVal": "0.009154"
+}, {
+	"tagSampleWarning": 1565565328168,
+	"batchNo": 747020,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565328168,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 54,
+	"tempVal": "0.023674"
+}, {
+	"batchNo": 747021,
+	"tagSample": 1565565350828,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 55,
+	"tempVal": "0.026608"
+}, {
+	"batchNo": 747022,
+	"tagSample": 1565565373520,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 56,
+	"tempVal": "0.035077"
+}, {
+	"batchNo": 747023,
+	"tagSample": 1565565396226,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 57,
+	"tempVal": "0.02862"
+}, {
+	"tagSampleWarning": 1565565418835,
+	"batchNo": 747024,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565418835,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 58,
+	"tempVal": "0.013274"
+}, {
+	"batchNo": 747025,
+	"tagSample": 1565565441568,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 59,
+	"tempVal": "0.049358"
+}, {
+	"batchNo": 747026,
+	"tagSample": 1565565464264,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 60,
+	"tempVal": "0.02608"
+}, {
+	"tagSampleWarning": 1565565486930,
+	"batchNo": 747027,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565486930,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 61,
+	"tempVal": "0.016682"
+}, {
+	"tagSampleWarning": 1565565509548,
+	"batchNo": 747028,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565509548,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 62,
+	"tempVal": "0.014086"
+}, {
+	"tagSampleWarning": 1565565532200,
+	"batchNo": 747029,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565532200,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 63,
+	"tempVal": "0.02167"
+}, {
+	"tagSampleWarning": 1565565554879,
+	"batchNo": 747030,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565554879,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 64,
+	"tempVal": "0.015998"
+}, {
+	"tagSampleWarning": 1565565577533,
+	"batchNo": 747031,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565577533,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 65,
+	"tempVal": "0.012074"
+}, {
+	"batchNo": 747032,
+	"tagSample": 1565565600280,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 66,
+	"tempVal": "0.039054"
+}, {
+	"tagSampleWarning": 1565565622912,
+	"batchNo": 747033,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565622912,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 67,
+	"tempVal": "0.010062"
+}, {
+	"tagSampleWarning": 1565565645614,
+	"batchNo": 747034,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565645614,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 68,
+	"tempVal": "0.018717"
+}, {
+	"tagSampleWarning": 1565565668329,
+	"batchNo": 747035,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565668329,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 69,
+	"tempVal": "0.032555"
+}, {
+	"tagSampleWarning": 1565565691008,
+	"batchNo": 747036,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565691008,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 70,
+	"tempVal": "0.022075"
+}, {
+	"tagSampleWarning": 1565565713680,
+	"batchNo": 747037,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565713680,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 71,
+	"tempVal": "0.041823"
+}, {
+	"batchNo": 747038,
+	"tagSample": 1565565736345,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 72,
+	"tempVal": "0.013"
+}, {
+	"tagSampleWarning": 1565565759020,
+	"batchNo": 747039,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565759020,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 73,
+	"tempVal": "0.034497"
+}, {
+	"batchNo": 747040,
+	"tagSample": 1565565781782,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 74,
+	"tempVal": "0.030797"
+}, {
+	"batchNo": 747041,
+	"tagSample": 1565565804438,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 75,
+	"tempVal": "0.035498"
+}, {
+	"tagSampleWarning": 1565565873022,
+	"batchNo": 747042,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565873022,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 76,
+	"tempVal": "0.01673"
+}, {
+	"batchNo": 747043,
+	"tagSample": 1565565895701,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 77,
+	"tempVal": "0.040757"
+}, {
+	"batchNo": 747044,
+	"tagSample": 1565565918275,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 78,
+	"tempVal": "0.0361"
+}, {
+	"tagSampleWarning": 1565565940928,
+	"batchNo": 747045,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565940928,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 79,
+	"tempVal": "0.028262"
+}, {
+	"tagSampleWarning": 1565565963616,
+	"batchNo": 747046,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565963616,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 80,
+	"tempVal": "0.021465"
+}, {
+	"tagSampleWarning": 1565565986235,
+	"batchNo": 747047,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565565986235,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 81,
+	"tempVal": "0.014837"
+}, {
+	"batchNo": 747048,
+	"tagSample": 1565566008999,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 82,
+	"tempVal": "0.01883"
+}, {
+	"tagSampleWarning": 1565566031651,
+	"batchNo": 747049,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565566031651,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 83,
+	"tempVal": "0.026473"
+}, {
+	"batchNo": 747050,
+	"tagSample": 1565566054217,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 84,
+	"tempVal": "0.033271"
+}, {
+	"batchNo": 747051,
+	"tagSample": 1565566076961,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 85,
+	"tempVal": "0.026116"
+}, {
+	"batchNo": 747052,
+	"tagSample": 1565566099661,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 86,
+	"tempVal": "0.040918"
+}, {
+	"batchNo": 747053,
+	"tagSample": 1565566122265,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 87,
+	"tempVal": "0.028216"
+}, {
+	"batchNo": 747054,
+	"tagSample": 1565566144952,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 88,
+	"tempVal": "0.022604"
+}, {
+	"batchNo": 747055,
+	"tagSample": 1565566167558,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 89,
+	"tempVal": "0.026831"
+}, {
+	"batchNo": 747056,
+	"tagSample": 1565566190337,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 90,
+	"tempVal": "0.020998"
+}, {
+	"batchNo": 747057,
+	"tagSample": 1565566213006,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 91,
+	"tempVal": "0.050442"
+}, {
+	"batchNo": 747058,
+	"tagSample": 1565566235581,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 92,
+	"tempVal": "0.030772"
+}, {
+	"tagSampleWarning": 1565566258299,
+	"batchNo": 747059,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565566258299,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 93,
+	"tempVal": "0.008406"
+}, {
+	"tagSampleWarning": 1565566280924,
+	"batchNo": 747060,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565566280924,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 94,
+	"tempVal": "0.027764"
+}, {
+	"tagSampleWarning": 1565566303650,
+	"batchNo": 747061,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565566303650,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 95,
+	"tempVal": "0.009445"
+}, {
+	"batchNo": 747062,
+	"tagSample": 1565566326226,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 96,
+	"tempVal": "0.020648"
+}, {
+	"batchNo": 747063,
+	"tagSample": 1565566348897,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 97,
+	"tempVal": "0.028441"
+}, {
+	"batchNo": 747064,
+	"tagSample": 1565566371644,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 98,
+	"tempVal": "0.019598"
+}, {
+	"batchNo": 747065,
+	"tagSample": 1565566394259,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 99,
+	"tempVal": "0.028875"
+}, {
+	"tagSampleWarning": 1565566416938,
+	"batchNo": 747066,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565566416938,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 100,
+	"tempVal": "0.013902"
+}, {
+	"tagSampleWarning": 1565566439567,
+	"batchNo": 747067,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565566439567,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 101,
+	"tempVal": "0.008579"
+}, {
+	"batchNo": 747068,
+	"tagSample": 1565566462306,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 102,
+	"tempVal": "0.026831"
+}, {
+	"tagSampleWarning": 1565566484897,
+	"batchNo": 747069,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565566484897,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 103,
+	"tempVal": "0.016512"
+}, {
+	"tagSampleWarning": 1565566507595,
+	"batchNo": 747070,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565566507595,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 104,
+	"tempVal": "0.025042"
+}, {
+	"batchNo": 747071,
+	"tagSample": 1565566530283,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 105,
+	"tempVal": "0.027023"
+}, {
+	"batchNo": 747072,
+	"tagSample": 1565566553019,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 106,
+	"tempVal": "0.044027"
+}, {
+	"batchNo": 747073,
+	"tagSample": 1565566575701,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 107,
+	"tempVal": "0.015562"
+}, {
+	"tagSampleWarning": 1565566598338,
+	"batchNo": 747074,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565566598338,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 108,
+	"tempVal": "0.007647"
+}, {
+	"tagSampleWarning": 1565566620929,
+	"batchNo": 747075,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565566620929,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 109,
+	"tempVal": "0.017912"
+}, {
+	"tagSampleWarning": 1565566643698,
+	"batchNo": 747076,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565566643698,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 110,
+	"tempVal": "0.018887"
+}, {
+	"batchNo": 747077,
+	"tagSample": 1565566666366,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 111,
+	"tempVal": "0.022415"
+}, {
+	"batchNo": 747078,
+	"tagSample": 1565566688941,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 112,
+	"tempVal": "0.04223"
+}, {
+	"tagSampleWarning": 1565566711654,
+	"batchNo": 747079,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565566711654,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 113,
+	"tempVal": "0.014724"
+}, {
+	"batchNo": 747080,
+	"tagSample": 1565566734316,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 114,
+	"tempVal": "0.030734"
+}, {
+	"batchNo": 747081,
+	"tagSample": 1565566757058,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 115,
+	"tempVal": "0.026218"
+}, {
+	"batchNo": 747082,
+	"tagSample": 1565566779720,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 116,
+	"tempVal": "0.013512"
+}, {
+	"batchNo": 747083,
+	"tagSample": 1565566802382,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 117,
+	"tempVal": "0.032086"
+}, {
+	"tagSampleWarning": 1565566825055,
+	"batchNo": 747084,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565566825055,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 118,
+	"tempVal": "0.048966"
+}, {
+	"batchNo": 747085,
+	"tagSample": 1565566847807,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 119,
+	"tempVal": "0.030069"
+}, {
+	"tagSampleWarning": 1565566870504,
+	"batchNo": 747086,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565566870504,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 120,
+	"tempVal": "0.022061"
+}, {
+	"tagSampleWarning": 1565566893133,
+	"batchNo": 747087,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565566893133,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 121,
+	"tempVal": "0.024688"
+}, {
+	"tagSampleWarning": 1565566915798,
+	"batchNo": 747088,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565566915798,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 122,
+	"tempVal": "0.017999"
+}, {
+	"tagSampleWarning": 1565566938440,
+	"batchNo": 747089,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565566938440,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 123,
+	"tempVal": "0.019069"
+}, {
+	"tagSampleWarning": 1565566961142,
+	"batchNo": 747090,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565566961142,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 124,
+	"tempVal": "0.016681"
+}, {
+	"tagSampleWarning": 1565566983871,
+	"batchNo": 747091,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565566983871,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 125,
+	"tempVal": "0.030797"
+}, {
+	"tagSampleWarning": 1565567006487,
+	"batchNo": 747092,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565567006487,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 126,
+	"tempVal": "0.016099"
+}, {
+	"batchNo": 747093,
+	"tagSample": 1565567029244,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 127,
+	"tempVal": "0.021297"
+}, {
+	"tagSampleWarning": 1565567051941,
+	"batchNo": 747094,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565567051941,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 128,
+	"tempVal": "0.018015"
+}, {
+	"batchNo": 747095,
+	"tagSample": 1565567098252,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 129,
+	"tempVal": "0.040582"
+}, {
+	"batchNo": 747096,
+	"tagSample": 1565567120929,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 130,
+	"tempVal": "0.041192"
+}, {
+	"batchNo": 747097,
+	"tagSample": 1565567143751,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 131,
+	"tempVal": "0.026878"
+}, {
+	"tagSampleWarning": 1565567166279,
+	"batchNo": 747098,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565567166279,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 132,
+	"tempVal": "0.021692"
+}, {
+	"batchNo": 747099,
+	"tagSample": 1565567188999,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 133,
+	"tempVal": "0.041297"
+}, {
+	"batchNo": 747100,
+	"tagSample": 1565567211660,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 134,
+	"tempVal": "0.019143"
+}, {
+	"batchNo": 747101,
+	"tagSample": 1565567234275,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 135,
+	"tempVal": "0.019319"
+}, {
+	"batchNo": 747102,
+	"tagSample": 1565567256932,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 136,
+	"tempVal": "0.025351"
+}, {
+	"batchNo": 747103,
+	"tagSample": 1565567279663,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 137,
+	"tempVal": "0.030688"
+}, {
+	"batchNo": 747104,
+	"tagSample": 1565567302330,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 138,
+	"tempVal": "0.019285"
+}, {
+	"tagSampleWarning": 1565567325038,
+	"batchNo": 747105,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565567325038,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 139,
+	"tempVal": "0.00947"
+}, {
+	"batchNo": 747106,
+	"tagSample": 1565567347691,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 140,
+	"tempVal": "0.030878"
+}, {
+	"tagSampleWarning": 1565567370460,
+	"batchNo": 747107,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565567370460,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 141,
+	"tempVal": "0.013118"
+}, {
+	"batchNo": 747108,
+	"tagSample": 1565567393158,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 142,
+	"tempVal": "0.018446"
+}, {
+	"batchNo": 747109,
+	"tagSample": 1565567415764,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 143,
+	"tempVal": "0.033688"
+}, {
+	"batchNo": 747110,
+	"tagSample": 1565567438389,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 144,
+	"tempVal": "0.01661"
+}, {
+	"tagSampleWarning": 1565567461182,
+	"batchNo": 747111,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565567461182,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 145,
+	"tempVal": "0.0092"
+}, {
+	"tagSampleWarning": 1565567483797,
+	"batchNo": 747112,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565567483797,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 146,
+	"tempVal": "0.026131"
+}, {
+	"batchNo": 747113,
+	"tagSample": 1565567506468,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 147,
+	"tempVal": "0.031768"
+}, {
+	"batchNo": 747114,
+	"tagSample": 1565567529112,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 148,
+	"tempVal": "0.026939"
+}, {
+	"tagSampleWarning": 1565567551874,
+	"batchNo": 747115,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565567551874,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 149,
+	"tempVal": "0.019571"
+}, {
+	"batchNo": 747116,
+	"tagSample": 1565567574496,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 150,
+	"tempVal": "0.040953"
+}, {
+	"batchNo": 747117,
+	"tagSample": 1565567597131,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 151,
+	"tempVal": "0.01874"
+}, {
+	"batchNo": 747118,
+	"tagSample": 1565567619809,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 152,
+	"tempVal": "0.034191"
+}, {
+	"batchNo": 747119,
+	"tagSample": 1565567642431,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 153,
+	"tempVal": "0.023172"
+}, {
+	"batchNo": 747120,
+	"tagSample": 1565567665149,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 154,
+	"tempVal": "0.025304"
+}, {
+	"batchNo": 747121,
+	"tagSample": 1565567687855,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 155,
+	"tempVal": "0.023743"
+}, {
+	"batchNo": 747122,
+	"tagSample": 1565567710560,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 156,
+	"tempVal": "0.040374"
+}, {
+	"tagSampleWarning": 1565567733183,
+	"batchNo": 747123,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565567733183,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 157,
+	"tempVal": "0.019974"
+}, {
+	"tagSampleWarning": 1565567755909,
+	"batchNo": 747124,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565567755909,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 158,
+	"tempVal": "0.034545"
+}, {
+	"tagSampleWarning": 1565567778623,
+	"batchNo": 747125,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565567778623,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 159,
+	"tempVal": "0.021155"
+}, {
+	"tagSampleWarning": 1565567801258,
+	"batchNo": 747126,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565567801258,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 160,
+	"tempVal": "0.019612"
+}, {
+	"tagSampleWarning": 1565567823835,
+	"batchNo": 747127,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565567823835,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 161,
+	"tempVal": "0.015789"
+}, {
+	"batchNo": 747128,
+	"tagSample": 1565567846552,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 162,
+	"tempVal": "0.023071"
+}, {
+	"batchNo": 747129,
+	"tagSample": 1565567869253,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 163,
+	"tempVal": "0.026787"
+}, {
+	"batchNo": 747130,
+	"tagSample": 1565567891927,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 164,
+	"tempVal": "0.018998"
+}, {
+	"batchNo": 747131,
+	"tagSample": 1565567914583,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 165,
+	"tempVal": "0.01707"
+}, {
+	"tagSampleWarning": 1565567937287,
+	"batchNo": 747132,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565567937287,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 166,
+	"tempVal": "0.01713"
+}, {
+	"batchNo": 747133,
+	"tagSample": 1565567959999,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 167,
+	"tempVal": "0.021273"
+}, {
+	"tagSampleWarning": 1565567982613,
+	"batchNo": 747134,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565567982613,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 168,
+	"tempVal": "0.01391"
+}, {
+	"tagSampleWarning": 1565568005304,
+	"batchNo": 747135,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565568005304,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 169,
+	"tempVal": "0.020639"
+}, {
+	"batchNo": 747136,
+	"tagSample": 1565568027957,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 170,
+	"tempVal": "0.028783"
+}, {
+	"tagSampleWarning": 1565568050649,
+	"batchNo": 747137,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565568050649,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 171,
+	"tempVal": "0.009838"
+}, {
+	"tagSampleWarning": 1565568073382,
+	"batchNo": 747138,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565568073382,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 172,
+	"tempVal": "0.036542"
+}, {
+	"tagSampleWarning": 1565568095970,
+	"batchNo": 747139,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565568095970,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 173,
+	"tempVal": "0.035038"
+}, {
+	"tagSampleWarning": 1565568118582,
+	"batchNo": 747140,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565568118582,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 174,
+	"tempVal": "0.029131"
+}, {
+	"batchNo": 747141,
+	"tagSample": 1565568141361,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 175,
+	"tempVal": "0.040185"
+}, {
+	"tagSampleWarning": 1565568163972,
+	"batchNo": 747142,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565568163972,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 176,
+	"tempVal": "0.017224"
+}, {
+	"batchNo": 747143,
+	"tagSample": 1565568186652,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 177,
+	"tempVal": "0.019219"
+}, {
+	"tagSampleWarning": 1565568209368,
+	"batchNo": 747144,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565568209368,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 178,
+	"tempVal": "0.011672"
+}, {
+	"tagSampleWarning": 1565568232038,
+	"batchNo": 747145,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565568232038,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 179,
+	"tempVal": "0.006945"
+}, {
+	"batchNo": 747146,
+	"tagSample": 1565568254688,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 180,
+	"tempVal": "0.034265"
+}, {
+	"tagSampleWarning": 1565568277452,
+	"batchNo": 747147,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565568277452,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 181,
+	"tempVal": "0.012242"
+}, {
+	"tagSampleWarning": 1565568300097,
+	"batchNo": 747148,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565568300097,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 182,
+	"tempVal": "0.013518"
+}, {
+	"tagSampleWarning": 1565568322814,
+	"batchNo": 747149,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565568322814,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 183,
+	"tempVal": "0.020441"
+}, {
+	"batchNo": 747150,
+	"tagSample": 1565568345478,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 184,
+	"tempVal": "0.046402"
+}, {
+	"tagSampleWarning": 1565568368176,
+	"batchNo": 747151,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565568368176,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 185,
+	"tempVal": "0.012191"
+}, {
+	"batchNo": 747152,
+	"tagSample": 1565568390784,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 186,
+	"tempVal": "0.025431"
+}, {
+	"batchNo": 747153,
+	"tagSample": 1565568413489,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 187,
+	"tempVal": "0.017184"
+}, {
+	"batchNo": 747154,
+	"tagSample": 1565568436203,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 188,
+	"tempVal": "0.014949"
+}, {
+	"batchNo": 747155,
+	"tagSample": 1565568458876,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 189,
+	"tempVal": "0.020688"
+}, {
+	"tagSampleWarning": 1565568481547,
+	"batchNo": 747156,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565568481547,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 190,
+	"tempVal": "0.012384"
+}, {
+	"batchNo": 747157,
+	"tagSample": 1565568504203,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 191,
+	"tempVal": "0.034221"
+}, {
+	"batchNo": 747158,
+	"tagSample": 1565568526862,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 192,
+	"tempVal": "0.029075"
+}, {
+	"tagSampleWarning": 1565568549574,
+	"batchNo": 747159,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565568549574,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 193,
+	"tempVal": "0.030576"
+}, {
+	"tagSampleWarning": 1565568572249,
+	"batchNo": 747160,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565568572249,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 194,
+	"tempVal": "0.01045"
+}, {
+	"batchNo": 747161,
+	"tagSample": 1565568594923,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 195,
+	"tempVal": "0.022948"
+}, {
+	"batchNo": 747162,
+	"tagSample": 1565568617633,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 196,
+	"tempVal": "0.023416"
+}, {
+	"batchNo": 747163,
+	"tagSample": 1565568640209,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 197,
+	"tempVal": "0.024899"
+}, {
+	"batchNo": 747164,
+	"tagSample": 1565568662959,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 198,
+	"tempVal": "0.028045"
+}, {
+	"batchNo": 747165,
+	"tagSample": 1565568685643,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 199,
+	"tempVal": "0.014303"
+}, {
+	"tagSampleWarning": 1565568708295,
+	"batchNo": 747166,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565568708295,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 200,
+	"tempVal": "0.006857"
+}, {
+	"batchNo": 747167,
+	"tagSample": 1565568730980,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 201,
+	"tempVal": "0.025993"
+}, {
+	"batchNo": 747168,
+	"tagSample": 1565568753626,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 202,
+	"tempVal": "0.044824"
+}, {
+	"batchNo": 747169,
+	"tagSample": 1565568776342,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 203,
+	"tempVal": "0.031601"
+}, {
+	"batchNo": 747170,
+	"tagSample": 1565568799035,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 204,
+	"tempVal": "0.025621"
+}, {
+	"tagSampleWarning": 1565568821725,
+	"batchNo": 747171,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565568821725,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 205,
+	"tempVal": "0.01744"
+}, {
+	"batchNo": 747172,
+	"tagSample": 1565568844400,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 206,
+	"tempVal": "0.018111"
+}, {
+	"batchNo": 747173,
+	"tagSample": 1565568867112,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 207,
+	"tempVal": "0.032117"
+}, {
+	"batchNo": 747174,
+	"tagSample": 1565568889695,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 208,
+	"tempVal": "0.017927"
+}, {
+	"tagSampleWarning": 1565568912313,
+	"batchNo": 747175,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565568912313,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 209,
+	"tempVal": "0.010552"
+}, {
+	"batchNo": 747176,
+	"tagSample": 1565568935096,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 210,
+	"tempVal": "0.022344"
+}, {
+	"batchNo": 747177,
+	"tagSample": 1565568957787,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 211,
+	"tempVal": "0.011739"
+}, {
+	"batchNo": 747178,
+	"tagSample": 1565568980471,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 212,
+	"tempVal": "0.018675"
+}, {
+	"batchNo": 747179,
+	"tagSample": 1565569003135,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 213,
+	"tempVal": "0.031277"
+}, {
+	"batchNo": 747180,
+	"tagSample": 1565569025758,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 214,
+	"tempVal": "0.020327"
+}, {
+	"batchNo": 747181,
+	"tagSample": 1565569048498,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 215,
+	"tempVal": "0.024427"
+}, {
+	"batchNo": 747182,
+	"tagSample": 1565569071198,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 216,
+	"tempVal": "0.033331"
+}, {
+	"batchNo": 747183,
+	"tagSample": 1565569093778,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 217,
+	"tempVal": "0.018079"
+}, {
+	"batchNo": 747184,
+	"tagSample": 1565569116514,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 218,
+	"tempVal": "0.01781"
+}, {
+	"batchNo": 747185,
+	"tagSample": 1565569139073,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 219,
+	"tempVal": "0.021927"
+}, {
+	"batchNo": 747186,
+	"tagSample": 1565569161749,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 220,
+	"tempVal": "0.021495"
+}, {
+	"batchNo": 747187,
+	"tagSample": 1565569184484,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 221,
+	"tempVal": "0.022685"
+}, {
+	"tagSampleWarning": 1565569207164,
+	"batchNo": 747188,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565569207164,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 222,
+	"tempVal": "0.024392"
+}, {
+	"batchNo": 747189,
+	"tagSample": 1565569275652,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 223,
+	"tempVal": "0.016857"
+}, {
+	"tagSampleWarning": 1565569298402,
+	"batchNo": 747190,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565569298402,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 224,
+	"tempVal": "0.013573"
+}, {
+	"batchNo": 747191,
+	"tagSample": 1565569321119,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 225,
+	"tempVal": "0.038183"
+}, {
+	"batchNo": 747192,
+	"tagSample": 1565569343637,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 226,
+	"tempVal": "0.040186"
+}, {
+	"tagSampleWarning": 1565569366336,
+	"batchNo": 747193,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565569366336,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 227,
+	"tempVal": "0.017795"
+}, {
+	"tagSampleWarning": 1565569389026,
+	"batchNo": 747194,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565569389026,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 228,
+	"tempVal": "0.011182"
+}, {
+	"tagSampleWarning": 1565569411720,
+	"batchNo": 747195,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565569411720,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 229,
+	"tempVal": "0.02089"
+}, {
+	"tagSampleWarning": 1565569434385,
+	"batchNo": 747196,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565569434385,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 230,
+	"tempVal": "0.01846"
+}, {
+	"tagSampleWarning": 1565569456999,
+	"batchNo": 747197,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565569456999,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 231,
+	"tempVal": "0.017351"
+}, {
+	"tagSampleWarning": 1565569479601,
+	"batchNo": 747198,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565569479601,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 232,
+	"tempVal": "0.022538"
+}, {
+	"tagSampleWarning": 1565569502350,
+	"batchNo": 747199,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565569502350,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 233,
+	"tempVal": "0.022279"
+}, {
+	"tagSampleWarning": 1565569524987,
+	"batchNo": 747200,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565569524987,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 234,
+	"tempVal": "0.029179"
+}, {
+	"batchNo": 747201,
+	"tagSample": 1565569547734,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 235,
+	"tempVal": "0.038737"
+}, {
+	"batchNo": 747202,
+	"tagSample": 1565569570304,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 236,
+	"tempVal": "0.020751"
+}, {
+	"tagSampleWarning": 1565569593051,
+	"batchNo": 747203,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565569593051,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 237,
+	"tempVal": "0.027555"
+}, {
+	"tagSampleWarning": 1565569615653,
+	"batchNo": 747204,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565569615653,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 238,
+	"tempVal": "0.010397"
+}, {
+	"tagSampleWarning": 1565569638320,
+	"batchNo": 747205,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565569638320,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 239,
+	"tempVal": "0.013791"
+}, {
+	"tagSampleWarning": 1565569660968,
+	"batchNo": 747206,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565569660968,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 240,
+	"tempVal": "0.019218"
+}, {
+	"tagSampleWarning": 1565569683649,
+	"batchNo": 747207,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565569683649,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 241,
+	"tempVal": "0.010907"
+}, {
+	"batchNo": 747208,
+	"tagSample": 1565569706328,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 242,
+	"tempVal": "0.022685"
+}, {
+	"batchNo": 747209,
+	"tagSample": 1565569728977,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 243,
+	"tempVal": "0.030473"
+}, {
+	"batchNo": 747210,
+	"tagSample": 1565569751639,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 244,
+	"tempVal": "0.020249"
+}, {
+	"tagSampleWarning": 1565569774392,
+	"batchNo": 747211,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565569774392,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 245,
+	"tempVal": "0.015092"
+}, {
+	"tagSampleWarning": 1565569797045,
+	"batchNo": 747212,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565569797045,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 246,
+	"tempVal": "0.009927"
+}, {
+	"batchNo": 747213,
+	"tagSample": 1565569819744,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 247,
+	"tempVal": "0.034713"
+}, {
+	"batchNo": 747214,
+	"tagSample": 1565569842409,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 248,
+	"tempVal": "0.024131"
+}, {
+	"batchNo": 747215,
+	"tagSample": 1565569865036,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 249,
+	"tempVal": "0.042215"
+}, {
+	"tagSampleWarning": 1565569887693,
+	"batchNo": 747216,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565569887693,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 250,
+	"tempVal": "0.019323"
+}, {
+	"batchNo": 747217,
+	"tagSample": 1565569910314,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 251,
+	"tempVal": "0.027725"
+}, {
+	"tagSampleWarning": 1565569933084,
+	"batchNo": 747218,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565569933084,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 252,
+	"tempVal": "0.013659"
+}, {
+	"batchNo": 747219,
+	"tagSample": 1565569955692,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 253,
+	"tempVal": "0.017273"
+}, {
+	"tagSampleWarning": 1565569978343,
+	"batchNo": 747220,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565569978343,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 254,
+	"tempVal": "0.01977"
+}, {
+	"tagSampleWarning": 1565570001090,
+	"batchNo": 747221,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565570001090,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 255,
+	"tempVal": "0.009799"
+}, {
+	"batchNo": 747222,
+	"tagSample": 1565570023772,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 256,
+	"tempVal": "0.029216"
+}, {
+	"batchNo": 747223,
+	"tagSample": 1565570046429,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 257,
+	"tempVal": "0.035639"
+}, {
+	"batchNo": 747224,
+	"tagSample": 1565570069198,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 258,
+	"tempVal": "0.037888"
+}, {
+	"batchNo": 747225,
+	"tagSample": 1565570091766,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 259,
+	"tempVal": "0.016631"
+}, {
+	"batchNo": 747226,
+	"tagSample": 1565570114446,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 260,
+	"tempVal": "0.031526"
+}, {
+	"batchNo": 747227,
+	"tagSample": 1565570137094,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 261,
+	"tempVal": "0.024729"
+}, {
+	"batchNo": 747228,
+	"tagSample": 1565570159832,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 262,
+	"tempVal": "0.026918"
+}, {
+	"batchNo": 747229,
+	"tagSample": 1565570182517,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 263,
+	"tempVal": "0.019856"
+}, {
+	"batchNo": 747230,
+	"tagSample": 1565570205175,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 264,
+	"tempVal": "0.178828"
+}, {
+	"tagSampleWarning": 1565570227819,
+	"batchNo": 747231,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565570227819,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 265,
+	"tempVal": "0.021623"
+}, {
+	"tagSampleWarning": 1565570250556,
+	"batchNo": 747232,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565570250556,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 266,
+	"tempVal": "0.018665"
+}, {
+	"tagSampleWarning": 1565570273258,
+	"batchNo": 747233,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565570273258,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 267,
+	"tempVal": "0.021853"
+}, {
+	"batchNo": 747234,
+	"tagSample": 1565570295818,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 268,
+	"tempVal": "0.037819"
+}, {
+	"tagSampleWarning": 1565570318532,
+	"batchNo": 747235,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565570318532,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 269,
+	"tempVal": "0.027017"
+}, {
+	"tagSampleWarning": 1565570341165,
+	"batchNo": 747236,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565570341165,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 270,
+	"tempVal": "0.03105"
+}, {
+	"batchNo": 747237,
+	"tagSample": 1565570363813,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 271,
+	"tempVal": "0.025758"
+}, {
+	"batchNo": 747238,
+	"tagSample": 1565570386646,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 272,
+	"tempVal": "0.041588"
+}, {
+	"batchNo": 747239,
+	"tagSample": 1565570409258,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 273,
+	"tempVal": "0.024216"
+}, {
+	"tagSampleWarning": 1565570431919,
+	"batchNo": 747240,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565570431919,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 274,
+	"tempVal": "0.020676"
+}, {
+	"tagSampleWarning": 1565570454602,
+	"batchNo": 747241,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565570454602,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 275,
+	"tempVal": "0.024081"
+}, {
+	"tagSampleWarning": 1565570477280,
+	"batchNo": 747242,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565570477280,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 276,
+	"tempVal": "0.018335"
+}, {
+	"batchNo": 747243,
+	"tagSample": 1565570499944,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 277,
+	"tempVal": "0.019728"
+}, {
+	"batchNo": 747244,
+	"tagSample": 1565570522642,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 278,
+	"tempVal": "0.014953"
+}, {
+	"batchNo": 747245,
+	"tagSample": 1565570545326,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 279,
+	"tempVal": "0.019951"
+}, {
+	"batchNo": 747246,
+	"tagSample": 1565570567978,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 280,
+	"tempVal": "0.023691"
+}, {
+	"batchNo": 747247,
+	"tagSample": 1565570590686,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 281,
+	"tempVal": "0.034158"
+}, {
+	"batchNo": 747248,
+	"tagSample": 1565570613288,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 282,
+	"tempVal": "0.035819"
+}, {
+	"tagSampleWarning": 1565570635971,
+	"batchNo": 747249,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565570635971,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 283,
+	"tempVal": "0.011831"
+}, {
+	"tagSampleWarning": 1565570658707,
+	"batchNo": 747250,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565570658707,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 284,
+	"tempVal": "0.020986"
+}, {
+	"batchNo": 747251,
+	"tagSample": 1565570681399,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 285,
+	"tempVal": "0.024622"
+}, {
+	"tagSampleWarning": 1565570704075,
+	"batchNo": 747252,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565570704075,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 286,
+	"tempVal": "0.013912"
+}, {
+	"batchNo": 747253,
+	"tagSample": 1565570726681,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 287,
+	"tempVal": "0.035402"
+}, {
+	"batchNo": 747254,
+	"tagSample": 1565570749355,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 288,
+	"tempVal": "0.020155"
+}, {
+	"batchNo": 747255,
+	"tagSample": 1565570771954,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 289,
+	"tempVal": "0.016415"
+}, {
+	"batchNo": 747256,
+	"tagSample": 1565570794657,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 290,
+	"tempVal": "0.037563"
+}, {
+	"batchNo": 747257,
+	"tagSample": 1565570817313,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 291,
+	"tempVal": "0.017818"
+}, {
+	"batchNo": 747258,
+	"tagSample": 1565570839979,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 292,
+	"tempVal": "0.036531"
+}, {
+	"batchNo": 747259,
+	"tagSample": 1565570862714,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 293,
+	"tempVal": "0.023701"
+}, {
+	"batchNo": 747260,
+	"tagSample": 1565570885424,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 294,
+	"tempVal": "0.031011"
+}, {
+	"tagSampleWarning": 1565570908075,
+	"batchNo": 747261,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565570908075,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 295,
+	"tempVal": "0.011287"
+}, {
+	"batchNo": 747262,
+	"tagSample": 1565570930748,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 296,
+	"tempVal": "0.039847"
+}, {
+	"tagSampleWarning": 1565570953444,
+	"batchNo": 747263,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565570953444,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 297,
+	"tempVal": "0.021632"
+}, {
+	"batchNo": 747264,
+	"tagSample": 1565570976090,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 298,
+	"tempVal": "0.026402"
+}, {
+	"batchNo": 747265,
+	"tagSample": 1565570998764,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 299,
+	"tempVal": "0.043143"
+}, {
+	"tagSampleWarning": 1565571021384,
+	"batchNo": 747266,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565571021384,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 300,
+	"tempVal": "0.038402"
+}, {
+	"batchNo": 747267,
+	"tagSample": 1565571044102,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 301,
+	"tempVal": "0.029103"
+}, {
+	"tagSampleWarning": 1565571066765,
+	"batchNo": 747268,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565571066765,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 302,
+	"tempVal": "0.034114"
+}, {
+	"batchNo": 747269,
+	"tagSample": 1565571089442,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 303,
+	"tempVal": "0.027198"
+}, {
+	"batchNo": 747270,
+	"tagSample": 1565571112173,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 304,
+	"tempVal": "0.03346"
+}, {
+	"batchNo": 747271,
+	"tagSample": 1565571134754,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 305,
+	"tempVal": "0.016988"
+}, {
+	"batchNo": 747272,
+	"tagSample": 1565571157486,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 306,
+	"tempVal": "0.021221"
+}, {
+	"tagSampleWarning": 1565571180170,
+	"batchNo": 747273,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565571180170,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 307,
+	"tempVal": "0.01745"
+}, {
+	"batchNo": 747274,
+	"tagSample": 1565571202786,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 308,
+	"tempVal": "0.02427"
+}, {
+	"batchNo": 747275,
+	"tagSample": 1565571225514,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 309,
+	"tempVal": "0.009659"
+}, {
+	"batchNo": 747276,
+	"tagSample": 1565571248158,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 310,
+	"tempVal": "0.014326"
+}, {
+	"batchNo": 747277,
+	"tagSample": 1565571270765,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 311,
+	"tempVal": "0.014436"
+}, {
+	"batchNo": 747278,
+	"tagSample": 1565571293465,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 312,
+	"tempVal": "0.021648"
+}, {
+	"tagSampleWarning": 1565571316107,
+	"batchNo": 747279,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565571316107,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 313,
+	"tempVal": "0.032988"
+}, {
+	"tagSampleWarning": 1565571338789,
+	"batchNo": 747280,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565571338789,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 314,
+	"tempVal": "0.02319"
+}, {
+	"tagSampleWarning": 1565571361395,
+	"batchNo": 747281,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565571361395,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 315,
+	"tempVal": "0.034933"
+}, {
+	"tagSampleWarning": 1565571384081,
+	"batchNo": 747282,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565571384081,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 316,
+	"tempVal": "0.035551"
+}, {
+	"tagSampleWarning": 1565571406770,
+	"batchNo": 747283,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565571406770,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 317,
+	"tempVal": "0.019161"
+}, {
+	"tagSampleWarning": 1565571429390,
+	"batchNo": 747284,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565571429390,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 318,
+	"tempVal": "0.01452"
+}, {
+	"batchNo": 747285,
+	"tagSample": 1565571452098,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 319,
+	"tempVal": "0.014042"
+}, {
+	"batchNo": 747286,
+	"tagSample": 1565571474698,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 320,
+	"tempVal": "0.030856"
+}, {
+	"batchNo": 747287,
+	"tagSample": 1565571497454,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 321,
+	"tempVal": "0.017005"
+}, {
+	"batchNo": 747288,
+	"tagSample": 1565571520030,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 322,
+	"tempVal": "0.023637"
+}, {
+	"batchNo": 747289,
+	"tagSample": 1565571542728,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 323,
+	"tempVal": "0.025113"
+}, {
+	"batchNo": 747290,
+	"tagSample": 1565571565464,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 324,
+	"tempVal": "0.026005"
+}, {
+	"tagSampleWarning": 1565571588169,
+	"batchNo": 747291,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565571588169,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 325,
+	"tempVal": "0.011678"
+}, {
+	"tagSampleWarning": 1565571610814,
+	"batchNo": 747292,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565571610814,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 326,
+	"tempVal": "0.046763"
+}, {
+	"tagSampleWarning": 1565571633499,
+	"batchNo": 747293,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565571633499,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 327,
+	"tempVal": "0.028005"
+}, {
+	"batchNo": 747294,
+	"tagSample": 1565571656117,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 328,
+	"tempVal": "0.01661"
+}, {
+	"batchNo": 747295,
+	"tagSample": 1565571678825,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 329,
+	"tempVal": "0.038375"
+}, {
+	"batchNo": 747296,
+	"tagSample": 1565571701492,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 330,
+	"tempVal": "0.028812"
+}, {
+	"tagSampleWarning": 1565571724253,
+	"batchNo": 747297,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565571724253,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 331,
+	"tempVal": "0.014772"
+}, {
+	"tagSampleWarning": 1565571746898,
+	"batchNo": 747298,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565571746898,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 332,
+	"tempVal": "0.027809"
+}, {
+	"tagSampleWarning": 1565571769614,
+	"batchNo": 747299,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565571769614,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 333,
+	"tempVal": "0.011906"
+}, {
+	"tagSampleWarning": 1565571792338,
+	"batchNo": 747300,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565571792338,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 334,
+	"tempVal": "0.019694"
+}, {
+	"tagSampleWarning": 1565571814983,
+	"batchNo": 747301,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565571814983,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 335,
+	"tempVal": "0.021912"
+}, {
+	"tagSampleWarning": 1565571837615,
+	"batchNo": 747302,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565571837615,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 336,
+	"tempVal": "0.032868"
+}, {
+	"batchNo": 747303,
+	"tagSample": 1565571860236,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 337,
+	"tempVal": "0.034132"
+}, {
+	"batchNo": 747304,
+	"tagSample": 1565571882889,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 338,
+	"tempVal": "0.029155"
+}, {
+	"batchNo": 747305,
+	"tagSample": 1565571905611,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 339,
+	"tempVal": "0.031465"
+}, {
+	"batchNo": 747306,
+	"tagSample": 1565571928166,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 340,
+	"tempVal": "0.014863"
+}, {
+	"batchNo": 747307,
+	"tagSample": 1565571950836,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 341,
+	"tempVal": "0.010429"
+}, {
+	"batchNo": 747308,
+	"tagSample": 1565571973576,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 342,
+	"tempVal": "0.022169"
+}, {
+	"batchNo": 747309,
+	"tagSample": 1565571996258,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 343,
+	"tempVal": "0.032964"
+}, {
+	"batchNo": 747310,
+	"tagSample": 1565572018895,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 344,
+	"tempVal": "0.024723"
+}, {
+	"batchNo": 747311,
+	"tagSample": 1565572041544,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 345,
+	"tempVal": "0.037563"
+}, {
+	"tagSampleWarning": 1565572064237,
+	"batchNo": 747312,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565572064237,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 346,
+	"tempVal": "0.008501"
+}, {
+	"batchNo": 747313,
+	"tagSample": 1565572086807,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 347,
+	"tempVal": "0.016157"
+}, {
+	"tagSampleWarning": 1565572109478,
+	"batchNo": 747314,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565572109478,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 348,
+	"tempVal": "0.037563"
+}, {
+	"tagSampleWarning": 1565572132188,
+	"batchNo": 747315,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565572132188,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 349,
+	"tempVal": "0.019637"
+}, {
+	"batchNo": 747316,
+	"tagSample": 1565572154968,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 350,
+	"tempVal": "0.023871"
+}, {
+	"tagSampleWarning": 1565572177531,
+	"batchNo": 747317,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565572177531,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 351,
+	"tempVal": "0.03184"
+}, {
+	"batchNo": 747318,
+	"tagSample": 1565572200240,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 352,
+	"tempVal": "0.03319"
+}, {
+	"tagSampleWarning": 1565572222915,
+	"batchNo": 747319,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565572222915,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 353,
+	"tempVal": "0.035417"
+}, {
+	"batchNo": 747320,
+	"tagSample": 1565572245551,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 354,
+	"tempVal": "0.030753"
+}, {
+	"batchNo": 747321,
+	"tagSample": 1565572268252,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 355,
+	"tempVal": "0.016895"
+}, {
+	"batchNo": 747322,
+	"tagSample": 1565572290840,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 356,
+	"tempVal": "0.037564"
+}, {
+	"batchNo": 747323,
+	"tagSample": 1565572313534,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 357,
+	"tempVal": "0.049548"
+}, {
+	"batchNo": 747324,
+	"tagSample": 1565572336195,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 358,
+	"tempVal": "0.036453"
+}, {
+	"batchNo": 747325,
+	"tagSample": 1565572358963,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 359,
+	"tempVal": "0.046521"
+}, {
+	"batchNo": 747326,
+	"tagSample": 1565572381656,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 360,
+	"tempVal": "0.046833"
+}, {
+	"batchNo": 747327,
+	"tagSample": 1565572404263,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 361,
+	"tempVal": "0.039698"
+}, {
+	"batchNo": 747328,
+	"tagSample": 1565572426931,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 362,
+	"tempVal": "0.021232"
+}, {
+	"batchNo": 747329,
+	"tagSample": 1565572449516,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 363,
+	"tempVal": "0.025266"
+}, {
+	"batchNo": 747330,
+	"tagSample": 1565572472351,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 364,
+	"tempVal": "0.029783"
+}, {
+	"batchNo": 747331,
+	"tagSample": 1565572494911,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 365,
+	"tempVal": "0.01583"
+}, {
+	"batchNo": 747332,
+	"tagSample": 1565572517557,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 366,
+	"tempVal": "0.021076"
+}, {
+	"tagSampleWarning": 1565572540326,
+	"batchNo": 747333,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565572540326,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 367,
+	"tempVal": "0.013889"
+}, {
+	"batchNo": 747334,
+	"tagSample": 1565572562937,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 368,
+	"tempVal": "0.030101"
+}, {
+	"batchNo": 747335,
+	"tagSample": 1565572585683,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 369,
+	"tempVal": "0.016917"
+}, {
+	"batchNo": 747336,
+	"tagSample": 1565572653986,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 370,
+	"tempVal": "0.015399"
+}, {
+	"batchNo": 747337,
+	"tagSample": 1565572676748,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 371,
+	"tempVal": "0.026754"
+}, {
+	"tagSampleWarning": 1565572699287,
+	"batchNo": 747338,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565572699287,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 372,
+	"tempVal": "0.049637"
+}, {
+	"batchNo": 747339,
+	"tagSample": 1565572721998,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 373,
+	"tempVal": "0.048063"
+}, {
+	"batchNo": 747340,
+	"tagSample": 1565572744695,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 374,
+	"tempVal": "0.029342"
+}, {
+	"batchNo": 747341,
+	"tagSample": 1565572767353,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 375,
+	"tempVal": "0.021055"
+}, {
+	"tagSampleWarning": 1565572789978,
+	"batchNo": 747342,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565572789978,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 376,
+	"tempVal": "0.020526"
+}, {
+	"batchNo": 747343,
+	"tagSample": 1565572812626,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 377,
+	"tempVal": "0.027373"
+}, {
+	"batchNo": 747344,
+	"tagSample": 1565572835278,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 378,
+	"tempVal": "0.031286"
+}, {
+	"batchNo": 747345,
+	"tagSample": 1565572857928,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 379,
+	"tempVal": "0.030772"
+}, {
+	"batchNo": 747346,
+	"tagSample": 1565572880663,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 380,
+	"tempVal": "0.039368"
+}, {
+	"batchNo": 747347,
+	"tagSample": 1565572903351,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 381,
+	"tempVal": "0.043302"
+}, {
+	"tagSampleWarning": 1565572926012,
+	"batchNo": 747348,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565572926012,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 382,
+	"tempVal": "0.012074"
+}, {
+	"tagSampleWarning": 1565572948716,
+	"batchNo": 747349,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565572948716,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 383,
+	"tempVal": "0.01823"
+}, {
+	"tagSampleWarning": 1565572971420,
+	"batchNo": 747350,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565572971420,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 384,
+	"tempVal": "0.016434"
+}, {
+	"tagSampleWarning": 1565572994067,
+	"batchNo": 747351,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565572994067,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 385,
+	"tempVal": "0.013308"
+}, {
+	"tagSampleWarning": 1565573016774,
+	"batchNo": 747352,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565573016774,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 386,
+	"tempVal": "0.020698"
+}, {
+	"batchNo": 747353,
+	"tagSample": 1565573039504,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 387,
+	"tempVal": "0.039103"
+}, {
+	"batchNo": 747354,
+	"tagSample": 1565573062116,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 388,
+	"tempVal": "0.017827"
+}, {
+	"batchNo": 747355,
+	"tagSample": 1565573084692,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 389,
+	"tempVal": "0.018075"
+}, {
+	"batchNo": 747356,
+	"tagSample": 1565573107438,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 390,
+	"tempVal": "0.019491"
+}, {
+	"batchNo": 747357,
+	"tagSample": 1565573130123,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 391,
+	"tempVal": "0.015746"
+}, {
+	"batchNo": 747358,
+	"tagSample": 1565573152715,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 392,
+	"tempVal": "0.025385"
+}, {
+	"batchNo": 747359,
+	"tagSample": 1565573175467,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 393,
+	"tempVal": "0.02368"
+}, {
+	"batchNo": 747360,
+	"tagSample": 1565573198136,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 394,
+	"tempVal": "0.025961"
+}, {
+	"batchNo": 747361,
+	"tagSample": 1565573220786,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 395,
+	"tempVal": "0.022027"
+}, {
+	"batchNo": 747362,
+	"tagSample": 1565573243477,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 396,
+	"tempVal": "0.030532"
+}, {
+	"batchNo": 747363,
+	"tagSample": 1565573266173,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 397,
+	"tempVal": "0.022441"
+}, {
+	"batchNo": 747364,
+	"tagSample": 1565573288891,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 398,
+	"tempVal": "0.023418"
+}, {
+	"batchNo": 747365,
+	"tagSample": 1565573311536,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 399,
+	"tempVal": "0.02601"
+}, {
+	"batchNo": 747366,
+	"tagSample": 1565573334231,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 400,
+	"tempVal": "0.028396"
+}, {
+	"tagSampleWarning": 1565573356972,
+	"batchNo": 747367,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565573356972,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 401,
+	"tempVal": "0.007602"
+}, {
+	"tagSampleWarning": 1565573379556,
+	"batchNo": 747368,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565573379556,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 402,
+	"tempVal": "0.022595"
+}, {
+	"tagSampleWarning": 1565573402246,
+	"batchNo": 747369,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565573402246,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 403,
+	"tempVal": "0.019788"
+}, {
+	"tagSampleWarning": 1565573424952,
+	"batchNo": 747370,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565573424952,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 404,
+	"tempVal": "0.018538"
+}, {
+	"tagSampleWarning": 1565573447530,
+	"batchNo": 747371,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565573447530,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 405,
+	"tempVal": "0.015366"
+}, {
+	"batchNo": 747372,
+	"tagSample": 1565573470272,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 406,
+	"tempVal": "0.034433"
+}, {
+	"batchNo": 747373,
+	"tagSample": 1565573492990,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 407,
+	"tempVal": "0.030558"
+}, {
+	"batchNo": 747374,
+	"tagSample": 1565573515646,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 408,
+	"tempVal": "0.026115"
+}, {
+	"tagSampleWarning": 1565573538254,
+	"batchNo": 747375,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565573538254,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 409,
+	"tempVal": "0.01431"
+}, {
+	"batchNo": 747376,
+	"tagSample": 1565573560949,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 410,
+	"tempVal": "0.038976"
+}, {
+	"tagSampleWarning": 1565573583694,
+	"batchNo": 747377,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565573583694,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 411,
+	"tempVal": "0.007971"
+}, {
+	"batchNo": 747378,
+	"tagSample": 1565573606380,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 412,
+	"tempVal": "0.044342"
+}, {
+	"batchNo": 747379,
+	"tagSample": 1565573629128,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 413,
+	"tempVal": "0.038539"
+}, {
+	"batchNo": 747380,
+	"tagSample": 1565573651718,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 414,
+	"tempVal": "0.028631"
+}, {
+	"batchNo": 747381,
+	"tagSample": 1565573674424,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 415,
+	"tempVal": "0.035417"
+}, {
+	"tagSampleWarning": 1565573697001,
+	"batchNo": 747382,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565573697001,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 416,
+	"tempVal": "0.018432"
+}, {
+	"batchNo": 747383,
+	"tagSample": 1565573719709,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 417,
+	"tempVal": "0.029011"
+}, {
+	"tagSampleWarning": 1565573742369,
+	"batchNo": 747384,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565573742369,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 418,
+	"tempVal": "0.0"
+}, {
+	"tagSampleWarning": 1565573765053,
+	"batchNo": 747385,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565573765053,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 419,
+	"tempVal": "0.020873"
+}, {
+	"tagSampleWarning": 1565573787736,
+	"batchNo": 747386,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565573787736,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 420,
+	"tempVal": "0.017376"
+}, {
+	"tagSampleWarning": 1565573810359,
+	"batchNo": 747387,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565573810359,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 421,
+	"tempVal": "0.030034"
+}, {
+	"batchNo": 747388,
+	"tagSample": 1565573833125,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 422,
+	"tempVal": "0.017833"
+}, {
+	"batchNo": 747389,
+	"tagSample": 1565573855734,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 423,
+	"tempVal": "0.037957"
+}, {
+	"batchNo": 747390,
+	"tagSample": 1565573878385,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 424,
+	"tempVal": "0.010309"
+}, {
+	"batchNo": 747391,
+	"tagSample": 1565573901049,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 425,
+	"tempVal": "0.032992"
+}, {
+	"batchNo": 747392,
+	"tagSample": 1565573923806,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 426,
+	"tempVal": "0.011603"
+}, {
+	"batchNo": 747393,
+	"tagSample": 1565573946428,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 427,
+	"tempVal": "0.013644"
+}, {
+	"tagSampleWarning": 1565573969055,
+	"batchNo": 747394,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565573969055,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 428,
+	"tempVal": "0.01103"
+}, {
+	"batchNo": 747395,
+	"tagSample": 1565573991745,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 429,
+	"tempVal": "0.024967"
+}, {
+	"batchNo": 747396,
+	"tagSample": 1565574014416,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 430,
+	"tempVal": "0.024212"
+}, {
+	"batchNo": 747397,
+	"tagSample": 1565574037033,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 431,
+	"tempVal": "0.025436"
+}, {
+	"tagSampleWarning": 1565574059718,
+	"batchNo": 747398,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574059718,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 432,
+	"tempVal": "0.016354"
+}, {
+	"tagSampleWarning": 1565574082362,
+	"batchNo": 747399,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574082362,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 433,
+	"tempVal": "0.007513"
+}, {
+	"tagSampleWarning": 1565574105068,
+	"batchNo": 747400,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574105068,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 434,
+	"tempVal": "0.035327"
+}, {
+	"batchNo": 747401,
+	"tagSample": 1565574127728,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 435,
+	"tempVal": "0.017994"
+}, {
+	"batchNo": 747402,
+	"tagSample": 1565574150406,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 436,
+	"tempVal": "0.035719"
+}, {
+	"tagSampleWarning": 1565574173053,
+	"batchNo": 747403,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574173053,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 437,
+	"tempVal": "0.011333"
+}, {
+	"tagSampleWarning": 1565574195817,
+	"batchNo": 747404,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574195817,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 438,
+	"tempVal": "0.04178"
+}, {
+	"batchNo": 747405,
+	"tagSample": 1565574218402,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 439,
+	"tempVal": "0.015884"
+}, {
+	"batchNo": 747406,
+	"tagSample": 1565574241012,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 440,
+	"tempVal": "0.029198"
+}, {
+	"batchNo": 747407,
+	"tagSample": 1565574263706,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 441,
+	"tempVal": "0.040917"
+}, {
+	"tagSampleWarning": 1565574286486,
+	"batchNo": 747408,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574286486,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 442,
+	"tempVal": "0.019993"
+}, {
+	"batchNo": 747409,
+	"tagSample": 1565574309123,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 443,
+	"tempVal": "0.026817"
+}, {
+	"tagSampleWarning": 1565574331842,
+	"batchNo": 747410,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574331842,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 444,
+	"tempVal": "0.006216"
+}, {
+	"batchNo": 747411,
+	"tagSample": 1565574354477,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 445,
+	"tempVal": "0.037838"
+}, {
+	"tagSampleWarning": 1565574377201,
+	"batchNo": 747412,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574377201,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 446,
+	"tempVal": "0.040783"
+}, {
+	"tagSampleWarning": 1565574399833,
+	"batchNo": 747413,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574399833,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 447,
+	"tempVal": "0.007411"
+}, {
+	"batchNo": 747414,
+	"tagSample": 1565574422547,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 448,
+	"tempVal": "0.041063"
+}, {
+	"tagSampleWarning": 1565574445212,
+	"batchNo": 747415,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574445212,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 449,
+	"tempVal": "0.03421"
+}, {
+	"tagSampleWarning": 1565574467897,
+	"batchNo": 747416,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574467897,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 450,
+	"tempVal": "0.015679"
+}, {
+	"tagSampleWarning": 1565574490484,
+	"batchNo": 747417,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574490484,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 451,
+	"tempVal": "0.022412"
+}, {
+	"tagSampleWarning": 1565574513224,
+	"batchNo": 747418,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574513224,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 452,
+	"tempVal": "0.016193"
+}, {
+	"batchNo": 747419,
+	"tagSample": 1565574535891,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 453,
+	"tempVal": "0.037879"
+}, {
+	"batchNo": 747420,
+	"tagSample": 1565574558614,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 454,
+	"tempVal": "0.031526"
+}, {
+	"batchNo": 747421,
+	"tagSample": 1565574581324,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 455,
+	"tempVal": "0.029217"
+}, {
+	"tagSampleWarning": 1565574603923,
+	"batchNo": 747422,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574603923,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 456,
+	"tempVal": "0.019026"
+}, {
+	"tagSampleWarning": 1565574626604,
+	"batchNo": 747423,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574626604,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 457,
+	"tempVal": "0.010977"
+}, {
+	"batchNo": 747424,
+	"tagSample": 1565574649345,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 458,
+	"tempVal": "0.012521"
+}, {
+	"batchNo": 747425,
+	"tagSample": 1565574672013,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 459,
+	"tempVal": "0.030856"
+}, {
+	"batchNo": 747426,
+	"tagSample": 1565574694656,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 460,
+	"tempVal": "0.018339"
+}, {
+	"batchNo": 747427,
+	"tagSample": 1565574717449,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 461,
+	"tempVal": "0.021815"
+}, {
+	"tagSampleWarning": 1565574739994,
+	"batchNo": 747428,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574739994,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 462,
+	"tempVal": "0.018614"
+}, {
+	"tagSampleWarning": 1565574762649,
+	"batchNo": 747429,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574762649,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 463,
+	"tempVal": "0.010477"
+}, {
+	"tagSampleWarning": 1565574785409,
+	"batchNo": 747430,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574785409,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 464,
+	"tempVal": "0.041994"
+}, {
+	"tagSampleWarning": 1565574808019,
+	"batchNo": 747431,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574808019,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 465,
+	"tempVal": "0.018782"
+}, {
+	"batchNo": 747432,
+	"tagSample": 1565574830776,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 466,
+	"tempVal": "0.021744"
+}, {
+	"batchNo": 747433,
+	"tagSample": 1565574853420,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 467,
+	"tempVal": "0.036916"
+}, {
+	"batchNo": 747434,
+	"tagSample": 1565574876067,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 468,
+	"tempVal": "0.035464"
+}, {
+	"batchNo": 747435,
+	"tagSample": 1565574898778,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 469,
+	"tempVal": "0.02318"
+}, {
+	"tagSampleWarning": 1565574921462,
+	"batchNo": 747436,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574921462,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 470,
+	"tempVal": "0.018908"
+}, {
+	"tagSampleWarning": 1565574944131,
+	"batchNo": 747437,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574944131,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 471,
+	"tempVal": "0.018204"
+}, {
+	"tagSampleWarning": 1565574966825,
+	"batchNo": 747438,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574966825,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 472,
+	"tempVal": "0.015715"
+}, {
+	"tagSampleWarning": 1565574989410,
+	"batchNo": 747439,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565574989410,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 473,
+	"tempVal": "0.017598"
+}, {
+	"tagSampleWarning": 1565575012160,
+	"batchNo": 747440,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565575012160,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 474,
+	"tempVal": "0.019173"
+}, {
+	"tagSampleWarning": 1565575034755,
+	"batchNo": 747441,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565575034755,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 475,
+	"tempVal": "0.006373"
+}, {
+	"batchNo": 747442,
+	"tagSample": 1565575057531,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 476,
+	"tempVal": "0.036616"
+}, {
+	"tagSampleWarning": 1565575080121,
+	"batchNo": 747443,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565575080121,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 477,
+	"tempVal": "0.021968"
+}, {
+	"tagSampleWarning": 1565575102864,
+	"batchNo": 747444,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565575102864,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 478,
+	"tempVal": "0.033435"
+}, {
+	"batchNo": 747445,
+	"tagSample": 1565575125537,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 479,
+	"tempVal": "0.033651"
+}, {
+	"tagSampleWarning": 1565575148197,
+	"batchNo": 747446,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565575148197,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 480,
+	"tempVal": "0.046507"
+}, {
+	"tagSampleWarning": 1565575170898,
+	"batchNo": 747447,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565575170898,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 481,
+	"tempVal": "0.023969"
+}, {
+	"batchNo": 747448,
+	"tagSample": 1565575193483,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 482,
+	"tempVal": "0.025898"
+}, {
+	"batchNo": 747449,
+	"tagSample": 1565575216181,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 483,
+	"tempVal": "0.029514"
+}, {
+	"tagSampleWarning": 1565575238781,
+	"batchNo": 747450,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565575238781,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 484,
+	"tempVal": "0.030696"
+}, {
+	"tagSampleWarning": 1565575261546,
+	"batchNo": 747451,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565575261546,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 485,
+	"tempVal": "0.019223"
+}, {
+	"tagSampleWarning": 1565575284143,
+	"batchNo": 747452,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565575284143,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 486,
+	"tempVal": "0.038995"
+}, {
+	"tagSampleWarning": 1565575306862,
+	"batchNo": 747453,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565575306862,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 487,
+	"tempVal": "0.020124"
+}, {
+	"batchNo": 747454,
+	"tagSample": 1565575329574,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 488,
+	"tempVal": "0.035719"
+}, {
+	"tagSampleWarning": 1565575352153,
+	"batchNo": 747455,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565575352153,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 489,
+	"tempVal": "0.021989"
+}, {
+	"batchNo": 747456,
+	"tagSample": 1565575374791,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 490,
+	"tempVal": "0.017455"
+}, {
+	"batchNo": 747457,
+	"tagSample": 1565575397488,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 491,
+	"tempVal": "0.049318"
+}, {
+	"batchNo": 747458,
+	"tagSample": 1565575420150,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 492,
+	"tempVal": "0.024573"
+}, {
+	"batchNo": 747459,
+	"tagSample": 1565575442838,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 493,
+	"tempVal": "0.046539"
+}, {
+	"batchNo": 747460,
+	"tagSample": 1565575465478,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 494,
+	"tempVal": "0.025489"
+}, {
+	"tagSampleWarning": 1565575488154,
+	"batchNo": 747461,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565575488154,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 495,
+	"tempVal": "0.04293"
+}, {
+	"tagSampleWarning": 1565575510816,
+	"batchNo": 747462,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565575510816,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 496,
+	"tempVal": "0.036581"
+}, {
+	"tagSampleWarning": 1565575533559,
+	"batchNo": 747463,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565575533559,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 497,
+	"tempVal": "0.011001"
+}, {
+	"tagSampleWarning": 1565575556210,
+	"batchNo": 747464,
+	"warningInfo": "加工缺失报警事件",
+	"tagSample": 1565575556210,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 498,
+	"tempVal": "0.015686"
+}, {
+	"batchNo": 747465,
+	"tagSample": 1565575578873,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 499,
+	"tempVal": "0.017785"
+}, {
+	"batchNo": 747466,
+	"tagSample": 1565575601550,
+	"procMeanUpperVal": 0.05,
+	"procMeanLowerVal": 0.011,
+	"index": 500,
+	"tempVal": "0.024458"
+}]

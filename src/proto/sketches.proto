@@ -1,0 +1,37 @@
+syntax = "proto3";
+
+option java_package = "com.uj.sketches.protocol";
+option java_outer_classname = "SketchesBean";
+
+message SketchesProto {
+	double max = 1;
+	double min = 2;
+	int64 startTime = 3;
+	int32 frequency = 4;
+	Average average = 5;
+	Maximum maximum = 6;
+	Boundary boundary = 7;
+	Original original = 8;
+
+    message Average{
+    	repeated double topData = 1;
+    	repeated double bottomData = 2;
+    }
+
+    message Maximum{
+    	repeated double data = 1;
+    }
+
+    message Boundary{
+    	repeated double topData = 1;
+    	repeated double bottomData = 2;
+    }
+
+    message Original{
+    	repeated OriginalData data = 1;
+    }
+
+	message OriginalData{
+		repeated double data = 1;
+	}
+} 

@@ -1,0 +1,33 @@
+syntax = "proto3";
+
+option java_package = "com.uj.graph.protocol";
+option java_outer_classname = "GraphModelBean";
+
+message GraphModelProto {
+    repeated int32 featureType = 1;//特征类型数组,取值范围[1,2,8,32,64] 1:均值 2:最大值 8:范围边界 32:均值导数 64:范围边界导数 有导数的话只返回导数
+    int32 frequency = 2;
+    Average averageOrig = 3;//均值
+    Average averageDer = 4;//均值导数模型
+    Maximum maximum = 5;//最大值模型
+    Boundary boundaryOrig= 6;//范围边界
+    Boundary boundaryDer = 7;//范围边界导数
+
+
+    message Average {
+        double maxLine = 1;//均值模型or均值导数模型的最大值
+        double minLine = 2;//均值模型or均值导数模型的最小值
+        repeated double topData = 3;//均值模型or均值导数模型的上边界
+        repeated double bottomData = 4;//均值模型or均值导数模型的下边界
+    }
+
+    message Maximum {
+        double data = 1;//最大值只有一个值
+    }
+
+    message Boundary {
+        double maxLine = 1;//范围边界模型or范围边界导数模型的最大值
+        double minLine = 2;//范围边界模型or范围边界导数模型的最小值
+        repeated double topData = 3;//范围边界or范围边界导数模型上边界
+        repeated double bottomData = 4;//范围边界or范围边界导数模型下边界
+    }
+} 

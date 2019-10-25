@@ -1,0 +1,33 @@
+{
+    max: 80, // 最大值
+    min: 10, // 最小值
+    startTime: 1566958689485, // 开始时间
+    frequency: 80, // 频率
+    average: { // 均值
+        color: '#f00', // 均值线颜色
+        lineType: 'dashed', // 均值线类型
+        topData: [66, 67, 68, 67, 66],
+        bottomData: [16, 47, 48, 47, 46],
+    },
+    maximum: { // 最大值
+        color: '#f0f',
+        lineType: 'solid',
+        data: 98,
+    },
+    boundary: { // 范围边界
+        color: '#00f',
+        lineType: 'solid',
+        topData: [99, 99, 99, 99, 99],
+        bottomData: [11, 11, 11, 11, 11],
+    },
+    original: { // 原始值
+        color: '#f0f',
+        lineType: 'solid',
+        data: [
+            [22, 23, 25, 53, 56],
+            [23, 28, 45, 63, 75],
+            [26, 56, 45, 32, 39],
+            [36, 46, 49, 69, 64],
+        ],
+    },
+}

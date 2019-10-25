@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "com.uj.graph.protocol";
+option java_outer_classname = "GraphFeedRateBean";
+
+message GraphFeedRateProto {
+    int64 startTime = 1;//进给倍率开始时间
+    int32 frequency = 2;//采集频率
+    double baseLine = 3;//面积基准线(智适应时返回模型中的面积基准线,如果是消空程或者消空程导数时则返回配置中的面积基准线分割比例)
+    FeedRate feedRate = 4;
+
+    message FeedRate {
+        double maxLine = 1;
+        double minLine = 2;
+        repeated Data data = 3;
+    }
+
+    message Data {
+        double value = 1;
+        int64 timestamp = 2;
+    }
+}

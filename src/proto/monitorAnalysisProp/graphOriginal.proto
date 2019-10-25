@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "com.uj.graph.protocol";
+option java_outer_classname = "GraphOriginalBean";
+
+message GraphOriginalProto {
+    int64 startTime = 1;// 开始时间
+    int32 frequency = 2;// 频率
+    Original original = 3;// 原始值/导数
+
+    message Original {
+        double maxLine = 1;//数组中的最大值
+        double minLine = 2;//数组中的最小值
+        OriginalData data = 3;//原始数据/导数数组
+
+        message OriginalData {
+            repeated double data = 1;
+        }
+    }
+
+
+} 
