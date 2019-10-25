@@ -7,9 +7,19 @@
     "lint": "vue-cli-service lint",
     "build:prod": "vue-cli-service build",
     "build:test": "vue-cli-service build --mode test",
-    "test": "jest",
+    "test": "jest --coverage",
     "report-coverage": "codecov",
     "proto": "pbjs -t json-module -w commonjs -o src/proto/proto.js  src/proto/*.proto"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangxuanlin/VUE-CLI"
+  },
+  "keywords": [
+    "codecov"
+  ],
+  "bin": {
+    "codecov": "./bin/codecov"
   },
   "dependencies": {
     "axios": "^0.19.0",
