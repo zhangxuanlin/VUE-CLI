@@ -1,1 +1,1 @@
-dada
+<a href="https://codecov.io/github/tianyong90/we-vue?branch=master"><img src="https://img.shields.io/codecov/c/github/tianyong90/we-vue/master.svg"></a>
